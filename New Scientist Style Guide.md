@@ -1,8 +1,8 @@
-# 3G <!--- outdated --->
+# 3G <!--- delete --->
 
 Acceptable shorthand for third-generation mobile phone.
 
-# 20/20 vision
+# 20/20 vision <!--- depends: included in Cambridge, excluded from OED --->
 
 Use a slash in 20/20.
 
@@ -26,11 +26,13 @@ Otherwise, add a full point at the end:
 
 See also sections on [units](#units) and [names](#names%20people).
 
-## Names formed from a sequence of initials
+## names formed from a sequence of initials
 
-True acronyms are not a problem: who even remembers that "radar" and "laser" started out as a string of initials? The problems come with the likes of AIDS, PDA, UN, UNICEF, BSE, EU, GM, CJD, NATO. Which ones need to be spelled out, and which don't?
+### formatting alphabetisms
 
-With a few rare specified exceptions, use caps throughout with no full points, even for abbreviations that are pronounced as a word:
+Acronyms that have become words in their own right aren't a problem: who even remembers that "radar" and "laser" started out as a string of initials? The problems come with the likes of AIDS, PDA, UN, UNICEF, BSE, EU, GM, CJD and NATO.
+
+With a few rare specified exceptions, use caps throughout with no full points, even for acronyms that are pronounced as a word:
 
 - **NASA** (*not* Nasa)
 
@@ -42,37 +44,37 @@ Exceptions include:
 
 - *vCJD*
 
-## Spell out or not?
+### spell out or not?
 
 This is where it gets complicated.
 
-Unless the abbreviation is included among the exceptions, spell out the name on first mention, followed immediately by the abbreviation in brackets.
+Unless the alphabetism is included among the exceptions, spell out the name on first mention, followed immediately by the alphabetism in brackets.
 
 - The charity Assisting Marsh Arabs and Refugees (AMAR)
 
 - The Association of Medical Publications (AMP)
 
-Where the first mention is plural, it is permissible to pluralise the abbreviation, too:
+Where the first mention is plural, it is permissible to pluralise the alphabetism, too:
 
 - The enzymes known as matrix metalloproteases (MMPs)
 
 But doing the same with the possessive reads awkwardly, so avoid "the World Anti-Doping Agency’s (WADA’s) code". It is almost always preferable to rewrite phrases like this to read, say, "the code drawn up by the World Anti-Doping Agency (WADA)". 
 
-All subsequent mentions can use the abbreviation. But a story littered with strings of capitals looks ugly, so always consider alternatives such as "the anti-doping agency" instead of "WADA" if the meaning is equally clear and the result is not clumsy. 
+All subsequent mentions can use the abbreviation. But a story littered with strings of capitals looks ugly, so always consider alternatives such as "the anti-doping agency" instead of "WADA" if the meaning is equally clear and the result isn't clumsy. 
 
 Where the name is mentioned for a second time immediately after it is introduced (that is, within two lines, when the story is on the page), it is permissible to omit the abbreviation in brackets next to the first mention, and use the abbreviation alone for the second mention.
 
 - Officials at the World Anti-Doping Agency have been busy lately, as WADA races to finalise rules ahead of the Athens Olympics.
 
-## Exceptions
+### exceptions
 
 The exceptions fall into three categories.
 
-1. Abbreviations that are almost universally used instead of the full name, and that the overwhelming majority of readers can be expected to recognise. They never need to be spelled out. For example: BBC, HIV, AIDS, DNA, FBI, UN, GDP, GPS
+- Alphabetisms that are almost universally used instead of the full name, and that the overwhelming majority of readers can be expected to recognise. They never need to be spelled out. For example: BBC, HIV, AIDS, DNA, FBI, UN, GDP, GPS.
 
-2. Abbreviations that are used more commonly than the full name, but which readers may not recognise. For example, PDA, GSM, PCR. They do not need to be spelled out, but the name should be spelled out and/or explained, whichever is more appropriate.
+- Alphabetisms that are used more commonly than the full name, but which readers may not recognise. For example, PDA, GSM, PCR. These can either be spelled out or simply have their meaning explained, whichever is more appropriate.
 
-3. Names that are equally familiar spelled out in full and as abbreviations. They should be spelled out in full on first mentions (without the abbreviation in brackets). Further mentions should use the abbreviation only. For example: European Union/EU; genetically modified/GM; carbon dioxide/CO 2.
+- Names that are equally familiar spelled out in full and as alphabetisms. They should be spelled out on first mention (without the abbreviation in brackets). Further mentions should use the abbreviation only. For example: European Union/EU; genetically modified/GM; carbon dioxide/CO₂.
 
 # Ableist language
 
@@ -88,7 +90,7 @@ Some common examples of ableist language to avoid:
 
 - Blind drunk
 
-- Describing something as "crazy" or "mad" etc
+- Describing something as "crazy" or "mad" etc.
 
 This BBC article gives more information: https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use
 
