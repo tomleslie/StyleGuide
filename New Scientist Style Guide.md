@@ -1,4 +1,4 @@
-# 3G
+# 3G // outdated
 
 Acceptable shorthand for third-generation mobile phone.
 
